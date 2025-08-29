@@ -1,0 +1,8 @@
+.example-spacer {
+  flex: 1 1 auto;
+  color: blue;
+  background-color: lightslategrey;
+}
+.nav-noauth {
+  background-color: rgb(28, 149, 214);
+}
