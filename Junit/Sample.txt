@@ -1,0 +1,4 @@
+name, 20
+praveen, 23
+usha, 25
+Somu, 30
